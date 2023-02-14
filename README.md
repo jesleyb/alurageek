@@ -1,1 +1,1 @@
-# alurageek
+Segundo desafio frontend - Alura - Oracle ONE.
